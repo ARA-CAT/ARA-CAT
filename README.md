@@ -1,9 +1,8 @@
 ## Welcome to my profile page!
 
-<!--
-**ARA-CAT/ARA-CAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/d24424e2-4d3b-49b0-a20f-068ab1d3698f" />
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
