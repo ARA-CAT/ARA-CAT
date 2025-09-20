@@ -4,8 +4,8 @@
 
 
 
-- I'm new to Git-Hub and I love coding!
+- I'm new to Git-Hub and I love coding! 💻
 - I've coded on other sites and I enjoy continuing to discover new ways to code!
-- I use she/her pronouns.
-- A fun fact about me is that I love to draw!
+- I use she/her pronouns. 🙋‍♀️
+- A fun fact about me is that I love to draw! 📝
 
