@@ -8,5 +8,8 @@
 - I use she/her pronouns. 🙋‍♀️
 - A fun fact about me is that I love to draw! 📝
 
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1cc983bc-7cd1-4a04-a343-7c11b8bececf" />
+
   
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/183298b3-05ce-42a1-850e-824d2643cf85"/>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/183298b3-05ce-42a1-850e-824d2643cf85"/>
