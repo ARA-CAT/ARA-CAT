@@ -1,6 +1,6 @@
 ## Welcome to my profile page!
 
-<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/d24424e2-4d3b-49b0-a20f-068ab1d3698f" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d24424e2-4d3b-49b0-a20f-068ab1d3698f" />
 
 
 
